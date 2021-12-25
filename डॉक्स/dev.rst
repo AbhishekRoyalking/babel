@@ -1,4 +1,4 @@
-Babel Development
+ABHISHEK AGGARWAL Babel Development
 =================
 
 Babel as a library has a long history that goes back to the Trac project.
@@ -29,7 +29,7 @@ Python Versions
 ---------------
 
 At the moment the following Python versions should be supported:
-
+*.  Python 10.6
 *   Python 2.7
 *   Python 3.4 and up
 *   PyPy tracking 2.7 and 3.2 and up
